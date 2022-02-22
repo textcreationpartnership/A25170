@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the execution, and last dying speeches of seaven notorious traytors and highway-men Who were executed at Tyburn, for high-treason, roberies [sic] on the high-way, murthers, and fellonies, on Wednesday, the 25th. of this instant July, 1683. As also their deportment in Newgate, after their condemnation; and what else remarkable happened.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25170</idno>
+            <idno type="STC">Wing A286A</idno>
+            <idno type="STC">ESTC R215579</idno>
+            <idno type="EEBO-CITATION">99827417</idno>
+            <idno type="PROQUEST">99827417</idno>
+            <idno type="VID">31835</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25170)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31835)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2184:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the execution, and last dying speeches of seaven notorious traytors and highway-men Who were executed at Tyburn, for high-treason, roberies [sic] on the high-way, murthers, and fellonies, on Wednesday, the 25th. of this instant July, 1683. As also their deportment in Newgate, after their condemnation; and what else remarkable happened.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtis, near Fleet-bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The unfortunates were John Mugleston, Roger Mugleston, John Harris, Thomas Wilson, Miles Johnson, William Gratrix and John Spittle.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>CSmH Copy has print show-through.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:31835:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT <hi>OF THE</hi> EXECUTION, <hi>And laſt Dying Speeches</hi> OF Seaven notorious <hi>Traytors</hi> and <hi>Highway-Men, Who were EXEC<g ref="char:V">Ʋ</g>TED at</hi> TYBURN, For <hi>High-Treaſon, Roberies</hi> on the <hi>High-Way, Murthers,</hi> and <hi>Fellonies,</hi> on <hi>Wedneſday,</hi> the 25th. of this Inſtant <hi>JULY,</hi> 1683.</head>
+            <head type="sub">As alſo their Deportment in <hi>Newgate,</hi> after their Condemnation; and what elſe Remarkable happened.</head>
+            <p>THE many Examples of Juſtice upon Offenders, have not of late been of force ſufficient to deter or forewarn profligate Wretches from falling into the like Diſaſter, as is apparent by theſe Perſons, whoſe Crimes have forfeited their Lives, and brought them to untimely ends, whoſe Names, Crimes, and Confeſ<g ref="char:EOLhyphen"/>ſions, were as followeth.</p>
+            <p>
+               <hi>John Mugleſton, Roger Mugleſton,</hi> and <hi>John Harris,</hi> having an Indictment of High-Trea<g ref="char:EOLhyphen"/>ſon preferred againſt them at the Seſſions in the <hi>Old-Bayly,</hi> on <hi>Thurſday</hi> the 10th. of this Inſtant <hi>July,</hi> for Clipping, Filing, and Deminiſhing the Lawful and Current Coin of <hi>England,</hi> as Queen <hi>Elizabeth</hi> Shillings, King <hi>James</hi> Shillings, King <hi>Charles</hi> the Firſt Half-Crowns, <hi>&amp;c.</hi> which Clipping, Filing, and Deminiſhing being proved againſt them by ſundry poſitive Witneſſes, ſome that were Eye-Witneſſes of the actual Treaſon, and others, that they had Silver being the Clippings of Money, offered them to Sail by a Youth ſent from the partys aforeſaid; and that upon ſearch, Sheers, Files, Rubbing-Stones, and other Inſtruments uſual on ſuch occaſions, were found in their Lodgings, together with Melting-Pots, and pieces of melted Silver; upon which they being Con<g ref="char:EOLhyphen"/>victed, received Sentence as in caſe of High-Treaſon the Law has provided, which is, That they ſhould be carried to the place from whence they came, from thence be drawn on Hurdles to the place of Execution, there to be Hanged by the Neck, cut down alive, their Bowels taken out, their privy Members cut off and burnt before their faces, their Heads to be ſevered from their Bodyes, their Bodyes to be divided into four Quarters, and to be diſpoſed of at the pleaſure of the King.</p>
+            <p>Sentence paſſed, they were conveyed back to <hi>Newgate,</hi> where they were viſited by divers of their Friends and Relations, to whom they expreſſed the deep ſence they conceived in perpetrating a Crime that was ſo prejudicial to the whole Kingdom, it be<g ref="char:EOLhyphen"/>ing not onely Treaſon againſt the King, but a Defraud of his Subjects in the higheſt nature, for which they expreſſed a more then ordinary ſorrow and remorſe, grie<g ref="char:EOLhyphen"/>ving that the Devil ſhould have ſo much power over them, as to draw them from
+<pb n="2" facs="tcp:31835:2"/>their Lawful Imployments (the two former being Butchers by Trade) to practice that which had brought upon them Ruin, Diſgrace, and Death, deſiring, and be<g ref="char:EOLhyphen"/>ing very attentive to the Prayers and wholeſome advice of ſuch Miniſters as came to give them Ghoſtly Counſel and Advice, in order to prepare them for another World,</p>
+            <p>The next in this Tragick Sceen, whoſe tranſcendant wickedneſs brought them to de<g ref="char:EOLhyphen"/>ſtruction, were <hi>Thomas Wilſon</hi> and <hi>Miles J hnſon,</hi> two <hi>Iriſh-men,</hi> who in the Com<g ref="char:EOLhyphen"/>pany of divers others, Robbed one Mr. <hi>Hind</hi> of <hi>High-Gate,</hi> upon the Road near unto <hi>Iſlington,</hi> of a Watch, Rings, Money, a Coat, and other things, valued at 80 <hi>l.</hi> and the ſame day Committed another Robbery at the ſame place, upon one Mr. <hi>Abel,</hi> taking from him money, Rings, a Watch, and other valuable things, but the Allarum given, the Townſ-men of <hi>Iſlington</hi> beſet the ways, and ſo it hap<g ref="char:EOLhyphen"/>pened, that they met the Priſoners, who looking like perſons which ſeemed very ſuſpicious, they commanded them to Surrender themſelves, which they refuſing, the Townſ-men purſued them, and ſoon ſeized on <hi>Wilſon,</hi> but <hi>Johnſon</hi> Armed with Sword and Piſtol, getting over a Bank, ſtood upon his Defence, when as one <hi>Charles Evans</hi> preſ<g ref="char:EOLhyphen"/>ſing upon him, he delivered his Piſtol at his Breaſt, and ſhot him Dead. This Evidence given againſt them upon their Tryals at the <hi>Old-Bayly,</hi> on <hi>Saturday,</hi> the 14th. Inſtant, they were found guilty upon three ſeveral Indictments, two for Robery and Fellony, and one for Murther, and on the <hi>Monday</hi> following, received Sentance of Death; <hi>viz. To re<g ref="char:EOLhyphen"/>turn to</hi> Newgate, <hi>and from thence be drawn to the place of Execution, and there to be hang'd by the Neck till they were Dead;</hi> upon which they appeared greatly dejected, eſpecially <hi>Johnſon,</hi> who had added Murther to his other Offences. In <hi>Newgate</hi> they continued ſad, in expectation of their Execution, deſiring the Prayers of divers that came to viſit them: confeſſing that they had been Evil Livers, and gone on in Prophaneneſs and Debauche<g ref="char:EOLhyphen"/>ry, which in the end became Habitual, and brought them to Poverty, which reduced them to many Extravagancies; when to ſupply their Neceſſities, they had taken the Evil Courſes aforeſaid, and gone on, for ſome time paſt ſecurely, but at length Juſtice had overtaken them, to which they patiently ſubmitted, hoping for mercy at God's hands. To this, or this Effect, was their Behaviour in <hi>Newgate,</hi> from the time they were Sen<g ref="char:EOLhyphen"/>tenced, to this 25th. of <hi>July,</hi> on which they ſuffered.</p>
+            <p>
+               <hi>William Gratrix,</hi> and <hi>John Spittle,</hi> having committed a Robery upon one Mr. <hi>Pitts,</hi> near <hi>Mile-End,</hi> taking from him a Watch, Rings, Mony, a Silver handled Knife and Fork, with divers other things, hardly ſparing his Life, by reaſon he knew them. They were on the 14th. Inſtant Convicted of the Robery and Fellony, upon poſitive proof, though they proteſted their Innocence, and for the ſame, on <hi>Monday</hi> received Sentence of Death, as the former; during the Intervene, they ſeemed greatly concerned at the near approach of Death, and deſired a longer time to prepare for their Diſſolution, but it was not granted. So that this day they were conveyed to <hi>Tyburn</hi> by the Sheriffs Officers, all the way ſhewing ſigns of Penitence, and Remorſe of Conſcience; ſome of them more ſignaly than others, deſiring the people to pray for them, that God would be merciful to their poor Souls. And being come to the place of their laſt abode in this World, with eleva<g ref="char:EOLhyphen"/>ted Hands and Eyes they begged forgiveneſs at Gods hands, Confeſſing that they had been great and grevious Sinners, running on in a courſe of Impiety, and refuſing to be re<g ref="char:EOLhyphen"/>claimed, till at length they were overtaken by Juſtice, and brought to be made miſerable Spectacles; hoping, that though themſelves would take no warning, yet that they might be a warning to others. That they had been Guilty of the Crimes they ſtood charged with, they denyed not, deſiring to forgive thoſe that had been Inſtrumental in bringing them to their ends. Then the two firſt who were drawn in a Sledge, made their Prayers publiquely, owning the juſtneſs of their Puniſhments; As likewiſe did the other, who was drawn by himſelf in another Sledge; but above all, <hi>Johnſon</hi> expreſſed his ſenſe of ſorrow for the Murder committed upon <hi>Evans,</hi> but ſaid he did it in a fright, and not de<g ref="char:EOLhyphen"/>liberately, or in Malice, but that he hoped by defending himſelf to eſcape. Mr. <hi>Ord nary</hi> gave them divers good Inſtructions, puting them in mind, that they were now upon the brink of Eternity, and but a ſtep on this ſide; therefore he earneſtly deſired them heartily to Repent, <hi>&amp;c.</hi> And ſo after the Prayers and Pſalm was ended, the Sentences aforeſaid were put in Execution; The firſt Three was Drawn in Sledges and Hang'd, and the other Four Hanged only.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> Langley Curtis, near <hi>Fleet-bridge.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
